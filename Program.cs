@@ -113,6 +113,8 @@ namespace FPU3D_Ejemplo1
                 }
             }
 
+          
+
 
 
             //TAREA AL FINAL LA APLICACION IMPRIMA LOS DATOS DE INVITADO CON UNA NUEVA CONSOLA CON DIFERENTE COLOR MOSTRANDO SU CODIGO DE ACCESO 
@@ -135,6 +137,7 @@ namespace FPU3D_Ejemplo1
                 #endregion
             }
 
+                  Console.WriteLine("Esto es una actualizacion");
 
         }
 
