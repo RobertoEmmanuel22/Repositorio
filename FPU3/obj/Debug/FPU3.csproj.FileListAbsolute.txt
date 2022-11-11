@@ -1,0 +1,7 @@
+C:\Users\52872\source\repos\FPU3\bin\Debug\FPU3.exe.config
+C:\Users\52872\source\repos\FPU3\bin\Debug\FPU3.exe
+C:\Users\52872\source\repos\FPU3\bin\Debug\FPU3.pdb
+C:\Users\52872\source\repos\FPU3\obj\Debug\FPU3.csproj.AssemblyReference.cache
+C:\Users\52872\source\repos\FPU3\obj\Debug\FPU3.csproj.CoreCompileInputs.cache
+C:\Users\52872\source\repos\FPU3\obj\Debug\FPU3.exe
+C:\Users\52872\source\repos\FPU3\obj\Debug\FPU3.pdb
